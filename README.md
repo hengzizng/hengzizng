@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+  ## :octocat:Hyeji's Git Activeness:octocat:
+  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhengzizng&count_bg=%23FF0085&title_bg=%23000000&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+
+  ---
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hengzizng&langs_count=6&theme=tokyonight&layout=compact)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hengzizng)](https://solved.ac/hengzizng)
+
+</div>
 
 <!--
 **hengzizng/hengzizng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
